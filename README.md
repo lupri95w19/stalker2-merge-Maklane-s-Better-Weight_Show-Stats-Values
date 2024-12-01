@@ -15,4 +15,4 @@ Remember, I didn't make these mods—I just merged them:
 
 ---
 
-### [Check out my modpack!](https://www.nexusmods.com/stalker2heartofchornobyl/mods/579). 🙌
+### [Check out my modpack!](https://www.nexusmods.com/stalker2heartofchornobyl/mods/402). 🙌
