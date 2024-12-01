@@ -9,7 +9,7 @@ If you like my modpack, you can:
 ---
 
 ### Credits
-Remember, I didn't make these mods—I just merged them:
+Remember, I didn't make these mods, I just merged them:
 - **[Maklane's Better Weights Balance](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139)**
 - **[Show Stats Values 1.0](https://www.nexusmods.com/stalker2heartofchornobyl/mods/545)**
 
